@@ -49,5 +49,5 @@
 
 ## Cómo ejecutar
 
-1. Clona este repositorio:
+1. Clona este repositorio: https://github.com/DavPin97/EDA_Python.git
 git clone
